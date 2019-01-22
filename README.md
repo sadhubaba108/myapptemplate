@@ -1,0 +1,2 @@
+# myapptemplate
+mynew app test
